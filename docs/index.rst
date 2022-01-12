@@ -3,8 +3,6 @@ nFacet Analysis
 
 This is a repository with notes about various aspects of the nFacet project.
 
-Contents
---------
 .. toctree::
   :maxdepth: 4
   :caption: Contents:
