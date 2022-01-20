@@ -5,8 +5,9 @@ extensions = [
     'nbsphinx',
     'sphinx.ext.duration',
     'sphinx.ext.autodoc',
-    'sphinx.ext.autosommary',
-    'sphinx.ext.intersphinx'
+    'sphinx.ext.autosummary',
+    'sphinx.ext.intersphinx'#,
+#    'sphinx.ext.autoapi'
 ]
 
 intersphinx_mapping = {
@@ -14,4 +15,4 @@ intersphinx_mapping = {
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
 
-
+#autoapi_dirs = ['../source']
