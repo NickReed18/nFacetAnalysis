@@ -9,4 +9,4 @@ This is a repository with notes about various aspects of the nFacet project.
   
   Gamma Calibration
   Neural network for dose measurement
-  API
+  api
