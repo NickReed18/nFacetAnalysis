@@ -2,9 +2,10 @@ project = 'nFacet Analysis'
 
 
 extensions = [
-    'nbsphinx',
     'sphinx.ext.duration',
     'sphinx.ext.autodoc',
+    'sphinx.ext.autosummary',
+    'shpins.ext.intersphinx',
 ]
 
 intersphinx_mapping = {
@@ -12,4 +13,3 @@ intersphinx_mapping = {
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
 
-#autoapi_dirs = ['../source']
