@@ -12,5 +12,5 @@ formats:
   - pdf
   - epub
 
-conda: 
-  environment: environment.yml
+#conda: 
+#  environment: environment.yml
