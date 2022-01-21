@@ -5,7 +5,7 @@ extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
-    'shpins.ext.intersphinx',
+    'sphinx.ext.intersphinx',
 ]
 
 intersphinx_mapping = {
