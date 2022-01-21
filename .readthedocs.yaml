@@ -12,3 +12,8 @@ formats:
   - pdf
   - epub
 
+python:
+  version: 3
+  install:
+    - requirements: docs/requirements.txt
+  system_packages: true
